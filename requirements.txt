@@ -1,0 +1,15 @@
+mysqlclient
+pymysql
+sqlalchemy
+uvicorn
+fastapi
+alembic
+cryptography
+pandas
+requests
+scikit-learn
+tqdm
+summa
+nltk
+langdetect
+networkx
